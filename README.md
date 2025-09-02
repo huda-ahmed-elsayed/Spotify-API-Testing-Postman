@@ -10,10 +10,13 @@ The goal is to practice REST API testing concepts, OAuth 2.0 authentication, and
   - Request access token
   - Refresh token  
 - **Spotify API Endpoints**
-  - `GET /me` → Retrieve current user profile
-  - `POST /users/{user_id}/playlists` → Create a playlist
-  - `GET /playlists/{playlist_id}` → Fetch playlist details
-  - `PUT /playlists/{playlist_id}` → Update playlist details
+  | Method   | Endpoint                     | Description                   |
+  | -------- | ---------------------------- | ----------------------------- |
+  | **GET**  | `/me`                        | Retrieve current user profile |
+  | **POST** | `/users/{user_id}/playlists` | Create a playlist             |
+  | **GET**  | `/playlists/{playlist_id}`   | Fetch playlist details        |
+  | **PUT**  | `/playlists/{playlist_id}`   | Update playlist details       |
+
 - **Assertions**
   - Status code checks (200, 201)
   - JSON schema validation
