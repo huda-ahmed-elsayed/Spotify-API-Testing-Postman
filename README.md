@@ -83,7 +83,7 @@ spotify-api-testing/
 
 --- 
 
-🧾 Learning Outcomes
+## 🧾 Learning Outcomes
 - Mastered Postman for API testing
 - Understood OAuth 2.0 Authorization Code Flow
 - Performed CRUD API testing
