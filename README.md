@@ -1,8 +1,7 @@
 # 🎵 Spotify API Testing with Postman
 
 This project demonstrates **API testing** of the Spotify Web API using **Postman**.  
-The goal is to practice REST API testing concepts, OAuth 2.0 authentication,  
-and CRUD operations (Create, Read, Update) on Spotify playlists.  
+The goal is to practice REST API testing concepts, OAuth 2.0 authentication, and CRUD operations (Create, Read, Update) on Spotify playlists.  
 
 ---
 
