@@ -45,9 +45,9 @@ spotify-api-testing/
 
 ---
 
-## 📸 Screenshots
+## 📸 Spotify Dashboard Screenshots
 
-|  Spotify Dashboard                | ![](screenshots/10-spotify-dashboard.png)                             |
+|  ![](screenshots/10-spotify-dashboard.png)                             |
 
 ---
 
