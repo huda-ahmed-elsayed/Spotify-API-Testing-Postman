@@ -47,18 +47,7 @@ spotify-api-testing/
 
 ## 📸 Screenshots
 
-| Step                               | Screenshot                              |
-|-----------------------------------|----------------------------------------|
-| App Settings in Spotify Dashboard | ![](screenshots/01-dashboard-app-settings.png) |
-| Access Grant (200 OK)             | ![](screenshots/02-get-access-grant-200.png)   |
-| Postman OAuth Config              | ![](screenshots/03-postman-oauth-config.png)   |
-| Token Success Response            | ![](screenshots/04-token-success-response.png) |
-| Get User ID (200 OK)              | ![](screenshots/05-get-user-id-200.png)        |
-| Create Playlist (201 Created)     | ![](screenshots/06-post-add-playlist-201.png)  |
-| Get Playlist (200 OK)             | ![](screenshots/07-get-playlist-200.png)       |
-| Edit Playlist (200 OK)            | ![](screenshots/08-put-edit-playlist-200.png)  |
-| Refresh Token Success             | ![](screenshots/09-refresh-token-success-response.png) |
-| Spotify Dashboard                 | ![](screenshots/10-spotify-dashboard.png)      |
+|  Spotify Dashboard                | ![](screenshots/10-spotify-dashboard.png)                             |
 
 ---
 
